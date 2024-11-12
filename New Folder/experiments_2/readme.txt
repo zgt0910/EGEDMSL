@@ -1,1 +1,0 @@
-"Bayesian_signed_rank_test.m" was used to compute Bayesian probabilities and obtain heat maps
